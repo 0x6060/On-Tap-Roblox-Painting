@@ -22,7 +22,7 @@ This project uses **BaseX** and **LuaLZW** — big thanks to their developers fo
 
 ### Lua Requirements
 
-- **LuaJIT** – needed to run the Lua scripts efficiently. https://luajit.org
+- **LuaJIT** – needed to run the Lua scripts efficiently. https://luajit.org (An executable installer https://github.com/ScriptTiger/LuaJIT-For-Windows)
 
 ### Environment Requirements
 
