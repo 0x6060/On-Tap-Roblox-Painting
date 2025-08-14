@@ -13,8 +13,9 @@ This project uses **BaseX** and **LuaLZW** — big thanks to their developers fo
 2. Download the repository's zip and extract it.
 3. Put any image in the same folder.
 4. Edit `painting.js` line `7` to the image file name including extension **OR** rename the image to `image.png`
-5. Run `painting.js`. You can do that by using **Visual Studio Code** OR open a CMD in that folder and run `node painting.js`
-6. Enjoy your code in a new file called `output.txt`
+5. Open a CMD in that folder and run `npm i`. (Only for the first time running the code. You can skip this if you've done it before)
+6. Run `node painting.js` in that same CMD.
+7. Enjoy your code in a new file called `output.txt`
 
 ## Required Packages
 - `sharp` – Package for image processing. https://www.npmjs.com/package/sharp
