@@ -17,9 +17,6 @@ This project uses **BaseX** and **LuaLZW** — big thanks to their developers fo
 6. Run `node painting.js` in that same CMD.
 7. Enjoy your code in a new file called `output.txt`
 
-## Required Packages
-- `sharp` – Package for image processing. https://www.npmjs.com/package/sharp
-
 ### Lua Requirements
 
 - **LuaJIT** – needed to run the Lua scripts efficiently. https://luajit.org (An executable installer https://github.com/ScriptTiger/LuaJIT-For-Windows)
