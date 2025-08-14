@@ -4,7 +4,7 @@ const { spawn } = require('child_process');
 const sharp = require('sharp');
 
 // == PATHS == //
-const picPath = 'IMAGE_NAME'; //  -- Your Image Path that you want to convert to code for On Tap in Roblox. (e.g., 'image.png') -- //
+const picPath = 'image.png'; //  -- Your Image Path that you want to convert to code for On Tap in Roblox. (e.g., 'image.png') -- //
 const luaScriptPath = 'processing.lua';  // -- Main Lua Script. -- //
 const inputFile = `input.bin`; // -- Binary file for Binary Data. -- //
 const outputFile = `output.txt`; // -- Encoded Output file. -- //
